@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="primary">#d6d6d6</color>//backgrownd
+  <color name="primary_dark">#8f8f8f</color>
+  <color name="primary_darker">#ff000d</color>
+  <color name="accent">#ff0000</color>//login button
+
+  <color name="black">#000000</color>
+  <color name="jet">#222222</color>
+  <color name="oil">#333333</color>
+  <color name="monsoon">#777777</color>
+  <color name="jumbo">#888888</color>
+  <color name="aluminum">#999999</color>
+  <color name="base">#ff0000</color>
+  <color name="iron">#ff0004</color>//password text and line
+  <color name="white">#ff0004</color>//email text and line
+</resources>
